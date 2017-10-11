@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+    <metadata>
+        <!-- Required elements-->
+        <id>Naxam.ShapeImageView.Droid</id>
+        <version>0.9.3</version>
+        <description>Xamarin Binding Library - Siyamed::ShapeImageView</description>
+        <authors>NAXAM</authors>
+        <owners>NAXAM CO.,LTD</owners>
+        <requireLicenseAcceptance>false</requireLicenseAcceptance>
+        <title>Naxam - Siyamed::ShapeImageView</title>
+        <releaseNotes>Siyamed::ShapeImageView v1.11</releaseNotes>
+        <summary>Xamarin Binding Library - Siyamed::ShapeImageView</summary>
+        <iconUrl>https://avatars1.githubusercontent.com/u/25535951</iconUrl>
+        <licenseUrl>https://opensource.org/licenses/MIT</licenseUrl>
+        <projectUrl>https://github.com/NAXAM/shape-imageview-android-binding</projectUrl>
+        <copyright>Copyright (c) 2017 NAXAM</copyright>
+        <tags>Xamarin.Android, shapeimageview</tags>
+        <dependencies>
+        </dependencies>
+    </metadata>
+    <!-- Optional 'files' node -->
+    <files>
+        <file src="Naxam.ShapeImageView.Droid/bin/Release/Naxam.ShapeImageView.Droid.dll" target="lib/MonoAndroid10/Naxam.ShapeImageView.Droid.dll" />
+    </files>
+</package>
